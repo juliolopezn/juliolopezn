@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a developer with 7+ years of experience in the .NET software development stack. I'm the kind of person who is always aware of the latest trends of technology. I also like having conversations with my friends and colleagues about any subject.
+My name is Julio López and I'm a developer. I'm from Sonora, Mexico.
 
-- 🔭 I’m currently working with Kubernetes, Azure and AWS
-- 🌱 I’m currently learning Terraforms
+- Currently working for @Sieena as a consultant
+- Using .NET platform since 2015.
+- I'm very good with web development.
